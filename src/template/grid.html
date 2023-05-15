@@ -1,0 +1,81 @@
+<html>
+  <head>
+    <link rel="stylesheet" href="grid.css">
+  </head>
+  <body>
+    <div class="grid">
+      <header>
+        <div class="logo">
+          <img src="https://uploads-ssl.webflow.com/629fa03df5f9a77d536ecdd8/62a22ee9266e332cd4beb4b2_Rizse%20Logo%20-%20Nav%20Bar%20Shadow.png" />
+        </div>
+        <div class="title">
+          <h2 id="title"></h2>
+          <p>
+            Final approver:&nbsp;
+            <strong id="finalApprover"></strong>
+          </p>
+          <p>
+            Final approver:&nbsp;
+            <strong id="acModel"></strong>
+          </p>
+        </div>
+        <div class="details">
+          <p>
+            Tail Number:&nbsp;
+            <strong id="tailNumber"></strong>
+          </p>
+          <p>
+            Report ID:&nbsp;
+            <strong id="reportId"></strong>
+          </p>
+          <p>
+            Location:&nbsp;
+            <strong id="location"></strong>
+          </p>
+        </div>
+      </header>
+      <content>
+        <div class="rows" id="rows">
+          <div class="header">
+            <span class="column">Stringer Number</span>
+            <span class="column">Damage Type</span>
+            <span class="column">Damage Dimensions</span>
+            <span class="column">Inspector</span>
+            <span class="column">Notes</span>
+          </div>
+        </div>
+      </content>
+      <footer>
+        <div></div>
+        <div class="additional-notes">
+          <strong>Additional Inspection Notes</strong>
+          <p id="additionalInspectionNotes"></p>
+        </div>
+        <div class="summary">
+          <div class="summary-header">
+            <span class="column">Drone #</span>
+            <span class="column">Inspection Date</span>
+            <span class="column">Time Length</span>
+            <span class="column">Report #</span>
+            <span class="column">Inspector ID</span>
+          </div>
+          <div class="summary-details">
+            <span class="column" id="droneNumber"></span>
+            <span class="column" id="inspectionDate"></span>
+            <span class="column" id="timeLength"></span>
+            <span class="column" id="reportNumber"></span>
+            <span class="column" id="inspectorId"></span>
+          </div>
+        </div>
+        <div></div>
+        <div class="footer">
+          <span class="column">&copy; <span id="current-year"></span> Rizse. All Rights Reserved</span>
+          <span class="column">&nbsp;</span>
+          <span class="column">Report generated on: <span id="current-date"></span></span>
+        </div>
+      </footer>
+    </div>
+
+    <script src="grid.js"></script>
+  </body>
+</html>

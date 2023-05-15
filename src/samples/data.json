@@ -1,0 +1,819 @@
+{
+  "title": "Aircraft Inspection Report",
+  "finalApprover": "Alex Williams",
+  "acModel": "Airbus 320",
+  "tailNumber": "N-200WN",
+  "reportId": "3964",
+  "location": "PHX - Hanger 1",
+  "additionalInspectionNotes": "",
+  "droneNumber": "",
+  "inspectionDate": "",
+  "timeLength": "",
+  "reportNumber": "",
+  "inspectorId": "",
+  "rows": [
+    {
+      "stringerNumber": "S-02L",
+      "damageType": "Corrosion",
+      "damageDimensions": {
+        "x": "Damage X",
+        "y": "Damage Y",
+        "z": "(Damage Z optional)"
+      },
+      "inspector": "",
+      "notes": ""
+    },
+    {
+      "stringerNumber": "S-02L",
+      "damageType": "Corrosion",
+      "damageDimensions": {
+        "x": "Damage X",
+        "y": "Damage Y",
+        "z": "(Damage Z optional)"
+      },
+      "inspector": "",
+      "notes": ""
+    },
+    {
+      "stringerNumber": "S-02L",
+      "damageType": "Corrosion",
+      "damageDimensions": {
+        "x": "Damage X",
+        "y": "Damage Y",
+        "z": "(Damage Z optional)"
+      },
+      "inspector": "",
+      "notes": ""
+    },
+    {
+      "stringerNumber": "S-02L",
+      "damageType": "Corrosion",
+      "damageDimensions": {
+        "x": "Damage X",
+        "y": "Damage Y",
+        "z": "(Damage Z optional)"
+      },
+      "inspector": "",
+      "notes": ""
+    },
+    {
+      "stringerNumber": "S-02L",
+      "damageType": "Corrosion",
+      "damageDimensions": {
+        "x": "Damage X",
+        "y": "Damage Y",
+        "z": "(Damage Z optional)"
+      },
+      "inspector": "",
+      "notes": ""
+    },
+    {
+      "stringerNumber": "S-02L",
+      "damageType": "Corrosion",
+      "damageDimensions": {
+        "x": "Damage X",
+        "y": "Damage Y",
+        "z": "(Damage Z optional)"
+      },
+      "inspector": "",
+      "notes": ""
+    },
+    {
+      "stringerNumber": "S-02L",
+      "damageType": "Corrosion",
+      "damageDimensions": {
+        "x": "Damage X",
+        "y": "Damage Y",
+        "z": "(Damage Z optional)"
+      },
+      "inspector": "",
+      "notes": ""
+    },
+    {
+      "stringerNumber": "S-02L",
+      "damageType": "Corrosion",
+      "damageDimensions": {
+        "x": "Damage X",
+        "y": "Damage Y",
+        "z": "(Damage Z optional)"
+      },
+      "inspector": "",
+      "notes": ""
+    },
+    {
+      "stringerNumber": "S-02L",
+      "damageType": "Corrosion",
+      "damageDimensions": {
+        "x": "Damage X",
+        "y": "Damage Y",
+        "z": "(Damage Z optional)"
+      },
+      "inspector": "",
+      "notes": ""
+    },
+    {
+      "stringerNumber": "S-02L",
+      "damageType": "Corrosion",
+      "damageDimensions": {
+        "x": "Damage X",
+        "y": "Damage Y",
+        "z": "(Damage Z optional)"
+      },
+      "inspector": "",
+      "notes": ""
+    },
+    {
+      "stringerNumber": "S-02L",
+      "damageType": "Corrosion",
+      "damageDimensions": {
+        "x": "Damage X",
+        "y": "Damage Y",
+        "z": "(Damage Z optional)"
+      },
+      "inspector": "",
+      "notes": ""
+    },
+    {
+      "stringerNumber": "S-02L",
+      "damageType": "Corrosion",
+      "damageDimensions": {
+        "x": "Damage X",
+        "y": "Damage Y",
+        "z": "(Damage Z optional)"
+      },
+      "inspector": "",
+      "notes": ""
+    },
+    {
+      "stringerNumber": "S-02L",
+      "damageType": "Corrosion",
+      "damageDimensions": {
+        "x": "Damage X",
+        "y": "Damage Y",
+        "z": "(Damage Z optional)"
+      },
+      "inspector": "",
+      "notes": ""
+    },
+    {
+      "stringerNumber": "S-02L",
+      "damageType": "Corrosion",
+      "damageDimensions": {
+        "x": "Damage X",
+        "y": "Damage Y",
+        "z": "(Damage Z optional)"
+      },
+      "inspector": "",
+      "notes": ""
+    },
+    {
+      "stringerNumber": "S-02L",
+      "damageType": "Corrosion",
+      "damageDimensions": {
+        "x": "Damage X",
+        "y": "Damage Y",
+        "z": "(Damage Z optional)"
+      },
+      "inspector": "",
+      "notes": ""
+    },
+    {
+      "stringerNumber": "S-02L",
+      "damageType": "Corrosion",
+      "damageDimensions": {
+        "x": "Damage X",
+        "y": "Damage Y",
+        "z": "(Damage Z optional)"
+      },
+      "inspector": "",
+      "notes": ""
+    },
+    {
+      "stringerNumber": "S-02L",
+      "damageType": "Corrosion",
+      "damageDimensions": {
+        "x": "Damage X",
+        "y": "Damage Y",
+        "z": "(Damage Z optional)"
+      },
+      "inspector": "",
+      "notes": ""
+    },
+    {
+      "stringerNumber": "S-02L",
+      "damageType": "Corrosion",
+      "damageDimensions": {
+        "x": "Damage X",
+        "y": "Damage Y",
+        "z": "(Damage Z optional)"
+      },
+      "inspector": "",
+      "notes": ""
+    },
+    {
+      "stringerNumber": "S-02L",
+      "damageType": "Corrosion",
+      "damageDimensions": {
+        "x": "Damage X",
+        "y": "Damage Y",
+        "z": "(Damage Z optional)"
+      },
+      "inspector": "",
+      "notes": ""
+    },
+    {
+      "stringerNumber": "S-02L",
+      "damageType": "Corrosion",
+      "damageDimensions": {
+        "x": "Damage X",
+        "y": "Damage Y",
+        "z": "(Damage Z optional)"
+      },
+      "inspector": "",
+      "notes": ""
+    },
+    {
+      "stringerNumber": "S-02L",
+      "damageType": "Corrosion",
+      "damageDimensions": {
+        "x": "Damage X",
+        "y": "Damage Y",
+        "z": "(Damage Z optional)"
+      },
+      "inspector": "",
+      "notes": ""
+    },
+    {
+      "stringerNumber": "S-02L",
+      "damageType": "Corrosion",
+      "damageDimensions": {
+        "x": "Damage X",
+        "y": "Damage Y",
+        "z": "(Damage Z optional)"
+      },
+      "inspector": "",
+      "notes": ""
+    },
+    {
+      "stringerNumber": "S-02L",
+      "damageType": "Corrosion",
+      "damageDimensions": {
+        "x": "Damage X",
+        "y": "Damage Y",
+        "z": "(Damage Z optional)"
+      },
+      "inspector": "",
+      "notes": ""
+    },
+    {
+      "stringerNumber": "S-02L",
+      "damageType": "Corrosion",
+      "damageDimensions": {
+        "x": "Damage X",
+        "y": "Damage Y",
+        "z": "(Damage Z optional)"
+      },
+      "inspector": "",
+      "notes": ""
+    },
+    {
+      "stringerNumber": "S-02L",
+      "damageType": "Corrosion",
+      "damageDimensions": {
+        "x": "Damage X",
+        "y": "Damage Y",
+        "z": "(Damage Z optional)"
+      },
+      "inspector": "",
+      "notes": ""
+    },
+    {
+      "stringerNumber": "S-02L",
+      "damageType": "Corrosion",
+      "damageDimensions": {
+        "x": "Damage X",
+        "y": "Damage Y",
+        "z": "(Damage Z optional)"
+      },
+      "inspector": "",
+      "notes": ""
+    },
+    {
+      "stringerNumber": "S-02L",
+      "damageType": "Corrosion",
+      "damageDimensions": {
+        "x": "Damage X",
+        "y": "Damage Y",
+        "z": "(Damage Z optional)"
+      },
+      "inspector": "",
+      "notes": ""
+    },
+    {
+      "stringerNumber": "S-02L",
+      "damageType": "Corrosion",
+      "damageDimensions": {
+        "x": "Damage X",
+        "y": "Damage Y",
+        "z": "(Damage Z optional)"
+      },
+      "inspector": "",
+      "notes": ""
+    },
+    {
+      "stringerNumber": "S-02L",
+      "damageType": "Corrosion",
+      "damageDimensions": {
+        "x": "Damage X",
+        "y": "Damage Y",
+        "z": "(Damage Z optional)"
+      },
+      "inspector": "",
+      "notes": ""
+    },
+    {
+      "stringerNumber": "S-02L",
+      "damageType": "Corrosion",
+      "damageDimensions": {
+        "x": "Damage X",
+        "y": "Damage Y",
+        "z": "(Damage Z optional)"
+      },
+      "inspector": "",
+      "notes": ""
+    },
+    {
+      "stringerNumber": "S-02L",
+      "damageType": "Corrosion",
+      "damageDimensions": {
+        "x": "Damage X",
+        "y": "Damage Y",
+        "z": "(Damage Z optional)"
+      },
+      "inspector": "",
+      "notes": ""
+    },
+    {
+      "stringerNumber": "S-02L",
+      "damageType": "Corrosion",
+      "damageDimensions": {
+        "x": "Damage X",
+        "y": "Damage Y",
+        "z": "(Damage Z optional)"
+      },
+      "inspector": "",
+      "notes": ""
+    },
+    {
+      "stringerNumber": "S-02L",
+      "damageType": "Corrosion",
+      "damageDimensions": {
+        "x": "Damage X",
+        "y": "Damage Y",
+        "z": "(Damage Z optional)"
+      },
+      "inspector": "",
+      "notes": ""
+    },
+    {
+      "stringerNumber": "S-02L",
+      "damageType": "Corrosion",
+      "damageDimensions": {
+        "x": "Damage X",
+        "y": "Damage Y",
+        "z": "(Damage Z optional)"
+      },
+      "inspector": "",
+      "notes": ""
+    },
+    {
+      "stringerNumber": "S-02L",
+      "damageType": "Corrosion",
+      "damageDimensions": {
+        "x": "Damage X",
+        "y": "Damage Y",
+        "z": "(Damage Z optional)"
+      },
+      "inspector": "",
+      "notes": ""
+    },
+    {
+      "stringerNumber": "S-02L",
+      "damageType": "Corrosion",
+      "damageDimensions": {
+        "x": "Damage X",
+        "y": "Damage Y",
+        "z": "(Damage Z optional)"
+      },
+      "inspector": "",
+      "notes": ""
+    },
+    {
+      "stringerNumber": "S-02L",
+      "damageType": "Corrosion",
+      "damageDimensions": {
+        "x": "Damage X",
+        "y": "Damage Y",
+        "z": "(Damage Z optional)"
+      },
+      "inspector": "",
+      "notes": ""
+    },
+    {
+      "stringerNumber": "S-02L",
+      "damageType": "Corrosion",
+      "damageDimensions": {
+        "x": "Damage X",
+        "y": "Damage Y",
+        "z": "(Damage Z optional)"
+      },
+      "inspector": "",
+      "notes": ""
+    },
+    {
+      "stringerNumber": "S-02L",
+      "damageType": "Corrosion",
+      "damageDimensions": {
+        "x": "Damage X",
+        "y": "Damage Y",
+        "z": "(Damage Z optional)"
+      },
+      "inspector": "",
+      "notes": ""
+    },
+    {
+      "stringerNumber": "S-02L",
+      "damageType": "Corrosion",
+      "damageDimensions": {
+        "x": "Damage X",
+        "y": "Damage Y",
+        "z": "(Damage Z optional)"
+      },
+      "inspector": "",
+      "notes": ""
+    },
+    {
+      "stringerNumber": "S-02L",
+      "damageType": "Corrosion",
+      "damageDimensions": {
+        "x": "Damage X",
+        "y": "Damage Y",
+        "z": "(Damage Z optional)"
+      },
+      "inspector": "",
+      "notes": ""
+    },
+    {
+      "stringerNumber": "S-02L",
+      "damageType": "Corrosion",
+      "damageDimensions": {
+        "x": "Damage X",
+        "y": "Damage Y",
+        "z": "(Damage Z optional)"
+      },
+      "inspector": "",
+      "notes": ""
+    },
+    {
+      "stringerNumber": "S-02L",
+      "damageType": "Corrosion",
+      "damageDimensions": {
+        "x": "Damage X",
+        "y": "Damage Y",
+        "z": "(Damage Z optional)"
+      },
+      "inspector": "",
+      "notes": ""
+    },
+    {
+      "stringerNumber": "S-02L",
+      "damageType": "Corrosion",
+      "damageDimensions": {
+        "x": "Damage X",
+        "y": "Damage Y",
+        "z": "(Damage Z optional)"
+      },
+      "inspector": "",
+      "notes": ""
+    },
+    {
+      "stringerNumber": "S-02L",
+      "damageType": "Corrosion",
+      "damageDimensions": {
+        "x": "Damage X",
+        "y": "Damage Y",
+        "z": "(Damage Z optional)"
+      },
+      "inspector": "",
+      "notes": ""
+    },
+    {
+      "stringerNumber": "S-02L",
+      "damageType": "Corrosion",
+      "damageDimensions": {
+        "x": "Damage X",
+        "y": "Damage Y",
+        "z": "(Damage Z optional)"
+      },
+      "inspector": "",
+      "notes": ""
+    },
+    {
+      "stringerNumber": "S-02L",
+      "damageType": "Corrosion",
+      "damageDimensions": {
+        "x": "Damage X",
+        "y": "Damage Y",
+        "z": "(Damage Z optional)"
+      },
+      "inspector": "",
+      "notes": ""
+    },
+    {
+      "stringerNumber": "S-02L",
+      "damageType": "Corrosion",
+      "damageDimensions": {
+        "x": "Damage X",
+        "y": "Damage Y",
+        "z": "(Damage Z optional)"
+      },
+      "inspector": "",
+      "notes": ""
+    },
+    {
+      "stringerNumber": "S-02L",
+      "damageType": "Corrosion",
+      "damageDimensions": {
+        "x": "Damage X",
+        "y": "Damage Y",
+        "z": "(Damage Z optional)"
+      },
+      "inspector": "",
+      "notes": ""
+    },
+    {
+      "stringerNumber": "S-02L",
+      "damageType": "Corrosion",
+      "damageDimensions": {
+        "x": "Damage X",
+        "y": "Damage Y",
+        "z": "(Damage Z optional)"
+      },
+      "inspector": "",
+      "notes": ""
+    },
+    {
+      "stringerNumber": "S-02L",
+      "damageType": "Corrosion",
+      "damageDimensions": {
+        "x": "Damage X",
+        "y": "Damage Y",
+        "z": "(Damage Z optional)"
+      },
+      "inspector": "",
+      "notes": ""
+    },
+    {
+      "stringerNumber": "S-02L",
+      "damageType": "Corrosion",
+      "damageDimensions": {
+        "x": "Damage X",
+        "y": "Damage Y",
+        "z": "(Damage Z optional)"
+      },
+      "inspector": "",
+      "notes": ""
+    },
+    {
+      "stringerNumber": "S-02L",
+      "damageType": "Corrosion",
+      "damageDimensions": {
+        "x": "Damage X",
+        "y": "Damage Y",
+        "z": "(Damage Z optional)"
+      },
+      "inspector": "",
+      "notes": ""
+    },
+    {
+      "stringerNumber": "S-02L",
+      "damageType": "Corrosion",
+      "damageDimensions": {
+        "x": "Damage X",
+        "y": "Damage Y",
+        "z": "(Damage Z optional)"
+      },
+      "inspector": "",
+      "notes": ""
+    },
+    {
+      "stringerNumber": "S-02L",
+      "damageType": "Corrosion",
+      "damageDimensions": {
+        "x": "Damage X",
+        "y": "Damage Y",
+        "z": "(Damage Z optional)"
+      },
+      "inspector": "",
+      "notes": ""
+    },
+    {
+      "stringerNumber": "S-02L",
+      "damageType": "Corrosion",
+      "damageDimensions": {
+        "x": "Damage X",
+        "y": "Damage Y",
+        "z": "(Damage Z optional)"
+      },
+      "inspector": "",
+      "notes": ""
+    },
+    {
+      "stringerNumber": "S-02L",
+      "damageType": "Corrosion",
+      "damageDimensions": {
+        "x": "Damage X",
+        "y": "Damage Y",
+        "z": "(Damage Z optional)"
+      },
+      "inspector": "",
+      "notes": ""
+    },
+    {
+      "stringerNumber": "S-02L",
+      "damageType": "Corrosion",
+      "damageDimensions": {
+        "x": "Damage X",
+        "y": "Damage Y",
+        "z": "(Damage Z optional)"
+      },
+      "inspector": "",
+      "notes": ""
+    },
+    {
+      "stringerNumber": "S-02L",
+      "damageType": "Corrosion",
+      "damageDimensions": {
+        "x": "Damage X",
+        "y": "Damage Y",
+        "z": "(Damage Z optional)"
+      },
+      "inspector": "",
+      "notes": ""
+    },
+    {
+      "stringerNumber": "S-02L",
+      "damageType": "Corrosion",
+      "damageDimensions": {
+        "x": "Damage X",
+        "y": "Damage Y",
+        "z": "(Damage Z optional)"
+      },
+      "inspector": "",
+      "notes": ""
+    },
+    {
+      "stringerNumber": "S-02L",
+      "damageType": "Corrosion",
+      "damageDimensions": {
+        "x": "Damage X",
+        "y": "Damage Y",
+        "z": "(Damage Z optional)"
+      },
+      "inspector": "",
+      "notes": ""
+    },
+    {
+      "stringerNumber": "S-02L",
+      "damageType": "Corrosion",
+      "damageDimensions": {
+        "x": "Damage X",
+        "y": "Damage Y",
+        "z": "(Damage Z optional)"
+      },
+      "inspector": "",
+      "notes": ""
+    },
+    {
+      "stringerNumber": "S-02L",
+      "damageType": "Corrosion",
+      "damageDimensions": {
+        "x": "Damage X",
+        "y": "Damage Y",
+        "z": "(Damage Z optional)"
+      },
+      "inspector": "",
+      "notes": ""
+    },
+    {
+      "stringerNumber": "S-02L",
+      "damageType": "Corrosion",
+      "damageDimensions": {
+        "x": "Damage X",
+        "y": "Damage Y",
+        "z": "(Damage Z optional)"
+      },
+      "inspector": "",
+      "notes": ""
+    },
+    {
+      "stringerNumber": "S-02L",
+      "damageType": "Corrosion",
+      "damageDimensions": {
+        "x": "Damage X",
+        "y": "Damage Y",
+        "z": "(Damage Z optional)"
+      },
+      "inspector": "",
+      "notes": ""
+    },
+    {
+      "stringerNumber": "S-02L",
+      "damageType": "Corrosion",
+      "damageDimensions": {
+        "x": "Damage X",
+        "y": "Damage Y",
+        "z": "(Damage Z optional)"
+      },
+      "inspector": "",
+      "notes": ""
+    },
+    {
+      "stringerNumber": "S-02L",
+      "damageType": "Corrosion",
+      "damageDimensions": {
+        "x": "Damage X",
+        "y": "Damage Y",
+        "z": "(Damage Z optional)"
+      },
+      "inspector": "",
+      "notes": ""
+    },
+    {
+      "stringerNumber": "S-02L",
+      "damageType": "Corrosion",
+      "damageDimensions": {
+        "x": "Damage X",
+        "y": "Damage Y",
+        "z": "(Damage Z optional)"
+      },
+      "inspector": "",
+      "notes": ""
+    },
+    {
+      "stringerNumber": "S-02L",
+      "damageType": "Corrosion",
+      "damageDimensions": {
+        "x": "Damage X",
+        "y": "Damage Y",
+        "z": "(Damage Z optional)"
+      },
+      "inspector": "",
+      "notes": ""
+    },
+    {
+      "stringerNumber": "S-02L",
+      "damageType": "Corrosion",
+      "damageDimensions": {
+        "x": "Damage X",
+        "y": "Damage Y",
+        "z": "(Damage Z optional)"
+      },
+      "inspector": "",
+      "notes": ""
+    },
+    {
+      "stringerNumber": "S-02L",
+      "damageType": "Dent",
+      "damageDimensions": {
+        "x": "Damage X",
+        "y": "Damage Y",
+        "z": "(Damage Z optional)"
+      },
+      "inspector": "",
+      "notes": ""
+    },
+    {
+      "stringerNumber": "3",
+      "damageType": "",
+      "damageDimensions": {
+        "x": "",
+        "y": "",
+        "z": ""
+      },
+      "inspector": "",
+      "notes": ""
+    },
+    {
+      "stringerNumber": "4",
+      "damageType": "",
+      "damageDimensions": {
+        "x": "",
+        "y": "",
+        "z": ""
+      },
+      "inspector": "",
+      "notes": ""
+    }
+  ]
+}
