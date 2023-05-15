@@ -9,6 +9,10 @@ const app = express()
 app.use(cors())
 app.use(express.json())
 
+app.get('/', (req: Request, res: Response) => {
+  res.sendFile('./template/index.html')
+})
+
 app.post('/', (req: Request, res: Response) => {
   const data = req.body
   const template = fs.readFileSync('./template/index.html', 'utf8')

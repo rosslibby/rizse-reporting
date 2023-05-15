@@ -10,6 +10,9 @@ const report_1 = require("./controllers/report");
 const app = (0, express_1.default)();
 app.use((0, cors_1.default)());
 app.use(express_1.default.json());
+app.get('/', (req, res) => {
+    res.sendFile('./template/index.html');
+});
 app.post('/', (req, res) => {
     const data = req.body;
     const template = fs_1.default.readFileSync('./template/index.html', 'utf8');
